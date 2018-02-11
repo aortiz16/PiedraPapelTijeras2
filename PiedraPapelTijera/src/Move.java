@@ -2,9 +2,9 @@
  * Class that stores a move
  */
  
-public class Move{
+public class Move{  
 
-    private String move;
+    private String move;  
 
     public Move(){
     	this.move = null;

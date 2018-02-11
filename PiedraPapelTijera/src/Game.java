@@ -3,8 +3,8 @@
  * Versión 1.0
  * Autor: Profesor Entorno Desarrollo
  */
-public class Game {
-
+public class Game {  
+  
 	private Parser parser;
 
 	public Game() {

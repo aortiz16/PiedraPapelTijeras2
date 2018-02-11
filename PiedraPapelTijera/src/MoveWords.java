@@ -2,11 +2,12 @@ import java.util.Random;
 
 public class MoveWords{
 
-    public static final int EMPATE = 0;
-    public static final int GANA = 1;
+    public static final int EMPATE = 0;                 
+    public static final int GANA = 1;   
     public static final int PIERDE = 2;
+    
 
-    private static final String[] validMoves = {"TIJERAS", "PAPEL", "PIEDRA"};
+    private static final String[] validMoves = {"TIJERAS", "LAGARTIJA" ,  "SOPCK" , "PAPEL", "PIEDRA" , };
     private static final String[] validCommands = {"SALIR", "HELP"};
 
     private Random rnd;
